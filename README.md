@@ -1,16 +1,40 @@
-## Hi there 👋
+# KingWang271
 
-<!--
-**KingWang271/KingWang271** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋 欢迎来到我的GitHub主页！
 
-Here are some ideas to get you started:
+## 关于我
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+我是KingWang271，一名热爱编程和技术分享的开发者。在这里你可以找到我参与的各种项目和代码实践。
+
+## 技能栈
+
+- **编程语言**: Java, JavaScript, Python等
+- **框架/工具**: Spring Boot, Git, Maven等
+- **数据库**: MySQL, Redis等
+- **其他技能**: 微服务架构, RESTful API设计等
+
+## 正在进行的项目
+
+### cangqiong-order
+这是一个订单管理系统项目，主要功能包括：
+- 订单创建与管理
+- 用户权限控制
+- 数据统计分析
+
+## 学习目标
+
+- 🔭 我目前正在学习微服务架构和云原生技术
+- 🌱 持续提升Java后端开发能力
+- 💬 欢迎交流讨论技术问题
+
+## 联系方式
+
+- 📫 如需联系我，请通过GitHub Issues或者邮件
+- 😄 期待与更多开发者交流合作
+
+## 个人宣言
+
+> 不积跬步，无以至千里；不积小流，无以成江海。
+
+---
+*感谢访问我的GitHub主页！⭐ 如果你喜欢我的项目，请给个Star支持一下！*
