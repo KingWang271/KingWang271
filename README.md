@@ -8,7 +8,7 @@ Hi there 👋 欢迎来到我的GitHub主页！
 
 ## 技能栈
 
-- **编程语言**: Java, JavaScript, Python等
+- **编程语言**: , java, Python等
 - **框架/工具**: Spring Boot, Git, Maven等
 - **数据库**: MySQL, Redis等
 - **其他技能**: 微服务架构, RESTful API设计等
